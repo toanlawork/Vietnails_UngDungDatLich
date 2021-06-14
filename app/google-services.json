@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "151628345357",
+    "project_id": "vietnails-dfbff",
+    "storage_bucket": "vietnails-dfbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151628345357:android:421b42239ff35935c12544",
+        "android_client_info": {
+          "package_name": "com.fpoly.vietnails_18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151628345357-nv2p0u24uo4jts1or49dtqk13ut97dts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCCgpVEow3cdG3hgwOtIe8uorGe7ibwhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151628345357-nv2p0u24uo4jts1or49dtqk13ut97dts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151628345357:android:e305a67c272de6e9c12544",
+        "android_client_info": {
+          "package_name": "com.fpoly.vietnails_18.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151628345357-tpa3o3kjuim2veeg5tim72apiokr4sf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fpoly.vietnails_18.base",
+            "certificate_hash": "b2859763d5433bd5ec6a5445af722a391f53475c"
+          }
+        },
+        {
+          "client_id": "151628345357-nv2p0u24uo4jts1or49dtqk13ut97dts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCCgpVEow3cdG3hgwOtIe8uorGe7ibwhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151628345357-nv2p0u24uo4jts1or49dtqk13ut97dts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
